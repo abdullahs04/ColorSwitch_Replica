@@ -106,12 +106,12 @@ public class player : MonoBehaviour
 
     void RestartGame()
     {
-        // Reload the current scene
+        
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     bool IsShapeTag(string tag)
     {
-        // Add all shape-related tags here
+       
         return tag == "Yellow" || tag == "Blue" || tag == "Orange" || tag == "Red";
     }
 
