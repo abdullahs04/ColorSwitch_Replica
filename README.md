@@ -29,17 +29,3 @@ This game is a replica of the popular mobile game **Color Switch**, developed us
 - **Firebase** – Analytics & backend integration
 
 ---
-
-
-## 📁 Project Structure
-
-```plaintext
-ColorSwitchReplica/
-├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   └── Prefabs/
-├── Packages/
-├── ProjectSettings/
-├── .gitignore
-├── README.md
